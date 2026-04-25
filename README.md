@@ -2,7 +2,7 @@
 ---
 ## Link for documentation 
 
-- **Video Penjelasan Program:**
+- **Video Penjelasan Program:** https://youtu.be/3vdEs8DdQ4M
 - **Video Demo Aplikasi:** https://youtu.be/IULKu8f2YIE
 
 ---
