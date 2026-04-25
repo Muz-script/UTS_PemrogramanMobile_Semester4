@@ -1,9 +1,9 @@
 # 📚UTS Permrograman Mobile Semester4
+---
+## Link for documentation 
 
-##Link for documentation 
-
-Video Penjelasan Program:
-Video Demo Aplikasi: https://youtu.be/IULKu8f2YIE
+- **Video Penjelasan Program:**
+- **Video Demo Aplikasi:** https://youtu.be/IULKu8f2YIE
 
 ---
 ## 👤 Author Information
@@ -12,5 +12,5 @@ Video Demo Aplikasi: https://youtu.be/IULKu8f2YIE
 - **NIM**   : 24552011062  
 ---
 
-# Universitas Teknologi Bandung
+## Universitas Teknologi Bandung
 ✨ *Happy Coding & Keep Learning!*
