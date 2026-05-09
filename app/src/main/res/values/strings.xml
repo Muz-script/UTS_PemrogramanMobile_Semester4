@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Seminar Apps</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_subtitle">Login untuk melanjutkan</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="invalid_login">Username atau Password salah</string>
+
+    <string name="register_seminar">Registrasi Seminar</string>
+    <string name="register_subtitle">Silakan isi data diri Anda untuk mendaftar seminar</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="phone">Nomor HP</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="pilih_seminar">Pilihan Seminar</string>
+    <string name="persetujuan">Saya dengan ini menyatakan bahwa seluruh data dan informasi yang saya berikan adalah benar, akurat, dan lengkap, serta bersedia bertanggung jawab atas segala konsekuensi yang timbul apabila di kemudian hari ditemukan ketidaksesuaian.</string>
+    <string name="submit">Submit</string>
+
+    <string name="error_empty">Field wajib diisi</string>
+    <string name="error_email">Email tidak valid (harus mengandung @)</string>
+    <string name="error_phone_format">Nomor HP harus diawali 08 dan 10-13 digit</string>
+    <string name="error_phone_numeric">Hanya boleh angka</string>
+    <string name="error_checkbox">Anda harus menyetujui pernyataan tersebut</string>
+    <string name="error_gender">Pilih jenis kelamin</string>
+    <string name="error_seminar">Silakan pilih seminar</string>
+
+    <string name="konfirmasi_judul">Konfirmasi</string>
+    <string name="konfirmasi_pesan">Pastikan kembali, Apakah data yang Anda isi sudah benar?</string>
+    <string name="ya">Ya</string>
+    <string name="tidak">Tidak</string>
+
+    <string name="pendaftaran_berhasil">Pendaftaran Berhasil</string>
+    <string name="kembali">Kembali ke Halaman Utama</string>
+    <string name="hasil_pendaftaran">Hasil Pendaftaran</string>
+
+    <string name="logo_desc">App Logo</string>
+</resources>
